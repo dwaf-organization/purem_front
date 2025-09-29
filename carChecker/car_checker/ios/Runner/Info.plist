@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>$(DEVELOPMENT_LANGUAGE)</string>
+	<key>CFBundleDisplayName</key>
+	<string>purem</string>
+	<key>CFBundleExecutable</key>
+	<string>$(EXECUTABLE_NAME)</string>
+	<key>CFBundleIdentifier</key>
+	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>car_checker</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>$(FLUTTER_BUILD_NAME)</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>$(FLUTTER_BUILD_NUMBER)</string>
+	<key>NSBluetoothAlwaysUsageDescription</key>
+	<string>ios 13 이상 블루투스 사용을 위해 반드시 필요한 권한</string>
+    <key>NSBluetoothPeripheralUsageDescription</key>
+    <string>블루투스 기기를 찾고 연결하기 위해 필요합니다.</string>
+    <key>CLIENT_ID</key>
+    <string>94069309394-e388e8n1lqs6a3i9knrptvn3dap57dqn.apps.googleusercontent.com</string>
+    <key>REVERSED_CLIENT_ID</key>
+    <string>com.googleusercontent.apps.94069309394-e388e8n1lqs6a3i9knrptvn3dap57dqn</string>
+    <key>ANDROID_CLIENT_ID</key>
+    <string>94069309394-l11mqnc6eo2emc4j6ct4eifj7r2bsrkk.apps.googleusercontent.com</string>
+    <key>API_KEY</key>
+    <string>AIzaSyCqOG1Cc9d2w-6ghPHp72gU73QX901l1wg</string>
+    <key>GCM_SENDER_ID</key>
+    <string>94069309394</string>
+    <key>PLIST_VERSION</key>
+    <string>1</string>
+    <key>BUNDLE_ID</key>
+    <string>com.purem.carChecker</string>
+    <key>PROJECT_ID</key>
+    <string>carcheck-6aa9e</string>
+    <key>STORAGE_BUCKET</key>
+    <string>carcheck-6aa9e.firebasestorage.app</string>
+    <key>IS_ADS_ENABLED</key>
+    <false/>
+    <key>IS_ANALYTICS_ENABLED</key>
+    <false/>
+    <key>IS_APPINVITE_ENABLED</key>
+    <true/>
+    <key>IS_GCM_ENABLED</key>
+    <true/>
+    <key>IS_SIGNIN_ENABLED</key>
+    <true/>
+    <key>GOOGLE_APP_ID</key>
+    <string>1:94069309394:ios:f00d840ee2a1ba13de920b</string>
+
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>UILaunchStoryboardName</key>
+	<string>LaunchScreen</string>
+	<key>UIMainStoryboardFile</key>
+	<string>Main</string>
+	<key>UISupportedInterfaceOrientations</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>UISupportedInterfaceOrientations~ipad</key>
+	<array>
+		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortraitUpsideDown</string>
+		<string>UIInterfaceOrientationLandscapeLeft</string>
+		<string>UIInterfaceOrientationLandscapeRight</string>
+	</array>
+	<key>CADisableMinimumFrameDurationOnPhone</key>
+	<true/>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
+	<key>LSApplicationQueriesSchemes</key>
+    <array>
+    	<string>kakaokompassauth</string>
+    	<string>kakaolink</string>
+    </array>
+    <key>GIDClientID</key>
+    <!-- Copied from GoogleService-Info.plist key CLIENT_ID -->
+    <string>94069309394-e388e8n1lqs6a3i9knrptvn3dap57dqn.apps.googleusercontent.com</string>
+    <key>CFBundleURLTypes</key>
+    <array>
+      <dict>
+      <key>CFBundleURLSchemes</key>
+      <array>
+        <!-- kakao login -->
+        <string>kakao6b3954427a8446751ff66ba80394e5ed</string>
+        <!-- google login -->
+        <string>com.googleusercontent.apps.94069309394-e388e8n1lqs6a3i9knrptvn3dap57dqn</string>
+      </array>
+      </dict>
+    </array>
+
+</dict>
+</plist>

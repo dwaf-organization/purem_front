@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "94069309394",
+    "project_id": "carcheck-6aa9e",
+    "storage_bucket": "carcheck-6aa9e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94069309394:android:6ff4419741aa676bde920b",
+        "android_client_info": {
+          "package_name": "com.example.car_checker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94069309394-nn5ubimeo7dqj1njsck2319ctlcaeeuj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.car_checker",
+            "certificate_hash": "0e2416ee73b62daa79725c1897cdf3848421d658"
+          }
+        },
+        {
+          "client_id": "94069309394-f22pfervj0h5ut1901no7jv6t94ad336.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfdXBqEyj3kTvWVs5PcGdY6EviBLQk6lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94069309394-f22pfervj0h5ut1901no7jv6t94ad336.apps.googleusercontent.com",
+              "client_type": 3,
+              "ios_info": {
+                "bundle_id": "com.purem.carChecker"
+              }
+            },
+            {
+              "client_id": "94069309394-ce9vm7lac3tomspj83feptinfev64sit.apps.googleusercontent.com",
+              "client_type": 2
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94069309394:android:9686a0c14a107340de920b",
+        "android_client_info": {
+          "package_name": "com.purem.carChecker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "94069309394-l11mqnc6eo2emc4j6ct4eifj7r2bsrkk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.purem.carChecker",
+            "certificate_hash": "0e2416ee73b62daa79725c1897cdf3848421d658"
+          }
+        },
+        {
+          "client_id": "94069309394-f22pfervj0h5ut1901no7jv6t94ad336.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfdXBqEyj3kTvWVs5PcGdY6EviBLQk6lY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "94069309394-f22pfervj0h5ut1901no7jv6t94ad336.apps.googleusercontent.com",
+              "client_type": 3,
+              "ios_info": {
+                "bundle_id": "com.purem.carChecker"
+              }
+            },
+            {
+              "client_id": "94069309394-ce9vm7lac3tomspj83feptinfev64sit.apps.googleusercontent.com",
+              "client_type": 2
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
